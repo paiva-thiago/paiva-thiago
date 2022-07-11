@@ -9,7 +9,9 @@ I've been a developer since 2005. Started studying computing as a hobby, when wa
 *   🌍  I'm based in Oeiras, Lisbon
 *   ✉️  You can contact me at [paiva.thiago@proton.me](mailto:paiva.thiago@proton.me)
 *   🚀  I'm currently working on [Integer](http://integerconsulting.pt)
-*   🧠  I'm learning Svelte and React<a href="https://www.github.com/paiva-thiago" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Svelte and React
+
+<a href="https://www.github.com/paiva-thiago" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/paiva-thiago?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
