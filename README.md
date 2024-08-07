@@ -9,7 +9,7 @@ I've been a developer since 2005. I started studying computing as a hobby, when 
 *   🌍  I'm based in Sintra, Portugal
 *   🖥️  See my portfolio at [Github Pages](http://paiva-thiago.github.io)
 *   ✉️  You can contact me at [paiva.thiago@proton.me](mailto:paiva.thiago@proton.me)
-*   🧠  I'm learning Svelte and Vue
+*   🧠  Learning Kafka and AWS
 
   <a href="https://www.github.com/paiva-thiago" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/paiva-thiago?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
